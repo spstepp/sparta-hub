@@ -1,0 +1,11 @@
+# Path redirects for when this project is later served on spartasite.com.
+# /styles.css and /contact.js are omitted on purpose: this site uses those paths.
+/products/*           https://templates.spartasite.com/products/:splat  301
+/questions/*          https://templates.spartasite.com/questions/:splat 301
+/feedback             https://templates.spartasite.com/feedback         301
+/feedback/            https://templates.spartasite.com/feedback/        301
+/privacy.html         https://templates.spartasite.com/privacy.html     301
+/terms.html           https://templates.spartasite.com/terms.html       301
+/refund.html          https://templates.spartasite.com/refund.html      301
+/images/*             https://templates.spartasite.com/images/:splat    301
+/feedback/feedback.js https://templates.spartasite.com/feedback/feedback.js 301
