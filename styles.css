@@ -29,13 +29,9 @@ h2{font-size:1.7rem;margin:0 0 20px;color:#1f3a5f}
 .card-summary{margin:0 0 14px;color:#3a4756;font-size:.97rem}
 .card-action{margin-top:auto}
 .card .btn{padding:10px 16px}
-.email{font-size:1.15rem;font-weight:600;word-break:break-all;margin:0 0 12px;color:#1d2733}
 .site-footer{border-top:1px solid #e3e8ee;padding:28px 0;font-size:.95rem;color:#5b6775}
 .site-footer nav{display:flex;flex-wrap:wrap;gap:8px 20px;margin-bottom:8px}
 .site-footer a{color:#3a4756}
-.contact-note{font-size:.85em;font-weight:400;font-style:italic}
-.contact-note::before{content:" ("}
-.contact-note::after{content:")"}
 @media (max-width:560px){
   .nav nav a{margin-left:10px;font-size:.92rem}
   .brand{font-size:1rem}
